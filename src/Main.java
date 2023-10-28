@@ -23,13 +23,13 @@ public class Main {
         float e = 27.12f;
         double f = 2.786;
         System.out.println("Задача 2");
-        System.out.println(a);
-        System.out.println(v);
-        System.out.println(b);
-        System.out.println(c);
-        System.out.println(d);
-        System.out.println(e);
-        System.out.println(f);
+        System.out.println("Для числа " + a + " присвоен тип byte");
+        System.out.println("Для числа " + v + " присвоен тип int");
+        System.out.println("Для числа " + b + " присвоен тип int");
+        System.out.println("Для числа " + c + " присвоен тип short");
+        System.out.println("Для числа " + d + " присвоен тип long");
+        System.out.println("Для числа " + e + " присвоен тип float");
+        System.out.println("Для числа " + f + " присвоен тип double");
         // Задача 3
         byte classA = 23;
         byte classB = 27;
